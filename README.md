@@ -58,4 +58,15 @@ get_stock_price_global_market(symbol_list: List[str], market: str) -> str:
 -market (str): "HK", "CN_MAINLAND", "US", "LSE", "NSE_INDIA", etc.
 
 
+# MCP Integration
+```
+{
+    "mcpServers": {
+        "finance-agent-mcp-server": {
+            "command": "uv",
+            "args": ["--directory", "/path_to_folder/finance-agent-mcp-server/src/finance-agent-mcp-server", "run", "server.py"]
+        }
+    }
+}
+```
 
