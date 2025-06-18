@@ -1,0 +1,11 @@
+[project]
+name = "finance-agent-mcp-server"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "httpx>=0.28.1",
+    "mcp[cli]>=1.9.4",
+    "financeagent>=0.0.1"
+]
