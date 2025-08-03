@@ -1,6 +1,8 @@
 # finance-agent-mcp-server
 MCP Server of free and public available Financial Data without need of API keys from trusted sites or institues. 
 
+[![MCP Marketplace User Review Rating Badge](https://www.deepnlp.org/api/marketplace/svg?name=ai-hub-admin/finance-agent-mcp-server)](https://www.deepnlp.org/store/mcp-server/mcp-server/pub-ai-hub-admin/finance-agent-mcp-server)
+
 This MCP server is a mcp wrapper of pypi package FinanceAgent (https://github.com/AI-Hub-Admin/FinanceAgent) which aims to 
 provide free and public available financial data from open websites of trusted sites. You can help your AI system to get realtime Financial Data From Global Market such US (NASDAQ/NYSE/DOW), China (HKEX, Shenzhen, Shanghai), Europe, India, Japan (TSE), etc.
 
