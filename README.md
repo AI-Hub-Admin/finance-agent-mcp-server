@@ -72,3 +72,6 @@ get_stock_price_global_market(symbol_list: List[str], market: str) -> str:
 }
 ```
 
+
+#### AI Agent Marketplace Tracking
+[![AI Agent Marketplace OneKey Router](https://www.deepnlp.org/api/ai_agent_marketplace/svg?name=AI-Hub-Admin/finance-agent-mcp-server)](https://www.deepnlp.org/store/mcp-server/mcp-server/pub-AI-Hub-Admin/finance-agent-mcp-server)
